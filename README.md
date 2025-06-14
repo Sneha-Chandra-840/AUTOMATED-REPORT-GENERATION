@@ -49,3 +49,8 @@ The final report is exported as report.pdf.
 
 Conclusion:
 This project is a practical implementation of how Python can be used to automate routine documentation tasks. By integrating file I/O, basic data analysis, and PDF generation.
+
+
+"OUTPUT" : [input.txt](https://github.com/user-attachments/files/20739448/input.txt)
+![Image](https://github.com/user-attachments/assets/9c957570-f640-4c66-beea-adb6a6a1f1cd)
+[report.pdf](https://github.com/user-attachments/files/20739447/report.pdf)
